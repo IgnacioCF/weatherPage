@@ -1,0 +1,6 @@
+is web site is running in local server  http://localhost:3000/
+it is a web page that shows you the weather dependig the city name that you tipe in .
+
+
+created by ignacio
+inspired by Angela Yu
